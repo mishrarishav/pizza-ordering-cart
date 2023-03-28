@@ -1,0 +1,43 @@
+{
+    "pizzas": [
+      {
+        "id": 1,
+        "name": "Margherita",
+        "description": "Tomato sauce, mozzarella, and basil",
+        "price": 9.99,
+        "image": "/images/margherita.jpg",
+        "toppings": [
+          "Tomatoes",
+          "Mozzarella",
+          "Basil"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Pepperoni",
+        "description": "Tomato sauce, mozzarella, and pepperoni",
+        "price": 11.99,
+        "image": "/images/pepperoni.jpg",
+        "toppings": [
+          "Pepperoni",
+          "Tomatoes",
+          "Mozzarella"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Vegetarian",
+        "description": "Tomato sauce, mozzarella, and vegetables",
+        "price": 10.99,
+        "image": "/images/vegetarian.jpg",
+        "toppings": [
+          "Tomatoes",
+          "Mushrooms",
+          "Bell peppers",
+          "Onions",
+          "Mozzarella"
+        ]
+      }
+    ]
+  }
+  
